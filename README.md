@@ -7,9 +7,9 @@ The project runs on Node and React.
 Clone the repository:
 git clone https://github.com/PolyaneRibeiro/Marvel.git
 
-##Run npm install to install node dependencies:
-npm i
-npm install typescript
+##Run npm install to install node dependencies:<br>
+npm i<br>
+npm install typescript<br>
 npm install react-router-dom
 
 ## Start the project:
