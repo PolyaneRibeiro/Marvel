@@ -7,7 +7,7 @@ The project runs on Node and React.
 Clone the repository:
 git clone https://github.com/PolyaneRibeiro/Marvel.git
 
-##Run npm install to install node dependencies:<br>
+##Run npm install to install node dependencies:
 npm i
 
 ## Start the project:
